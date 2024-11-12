@@ -1,0 +1,11 @@
+# 公共配置文件
+# @author ZHF
+#  
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+nornapi:
+  client:
+    access-key: ZHF
+    secret-key: abcdefgh
